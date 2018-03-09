@@ -1,0 +1,1 @@
+"use strict";var util=function(t,n){return{alert:function(n){t.alert(n)},tip:function(n){t.alert(n)}}}(window,$);
